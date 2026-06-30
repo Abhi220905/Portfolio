@@ -45,7 +45,7 @@ const Hero = () => {
             <a href="#contact" className="inline-block text-center bg-[#FF7A59] text-white px-8 py-3 text-base font-medium transition-all duration-300 cursor-pointer">
               Got a project?
             </a>
-            <a href="/CV-Abhi.pdf" target="_blank" rel="noopener noreferrer" className="inline-block text-center border border-[#FF7A59] text-[#FF7A59] dark:text-white px-8 py-3 text-base font-medium transition-all duration-300 hover:bg-[#FF7A59]/10 cursor-pointer">
+            <a href="/CV-Abhi.pdf" download="Abhishek_Khatri_Resume.pdf" target="_blank" rel="noopener noreferrer" className="inline-block text-center border border-[#FF7A59] text-[#FF7A59] dark:text-white px-8 py-3 text-base font-medium transition-all duration-300 hover:bg-[#FF7A59]/10 cursor-pointer">
               My resume
             </a>
           </div>
